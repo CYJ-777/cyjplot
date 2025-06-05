@@ -1,0 +1,6 @@
+export(boxplot)
+export(correlation)
+export(survival)
+export(longboxplot)
+
+export(longboxplot)

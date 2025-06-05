@@ -1,7 +1,7 @@
 
 # cyjplot
 
-🧬 `cyjplot` is a custom R package that provides easy-to-use ggplot2-based plotting functions tailored for biomedical data, such as gene expression, drug sensitivity, and survival analysis.
+🧬 `cyjplot` is a custom R package that provides easy-to-use ggplot2-based plotting functions.
 
 ---
 
